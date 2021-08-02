@@ -1,0 +1,9 @@
+[submodule "submods/PDFKit15f"]
+	path = submods/PDFKit15f
+	url = https://github.com/Synergex-CodeExchange/PDFKit15f.git
+[submodule "submods/Parser"]
+	path = submods/Parser
+	url = https://github.com/Synergex-CodeExchange/Parser.git
+[submodule "submods/Message_Box"]
+	path = submods/Message_Box
+	url = https://github.com/Synergex-CodeExchange/Message_Box.git
