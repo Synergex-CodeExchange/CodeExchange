@@ -1,3 +1,0 @@
-[submodule "submods/TestRepo1"]
-	path = submods/TestRepo1
-	url = https://github.com/Synergex-CodeExchange/TestRepo1.git
