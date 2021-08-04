@@ -10,6 +10,3 @@
 [submodule "Test-_.Entry"]
 	path = Test-_.Entry
 	url = https://github.com/Synergex-CodeExchange/Test-_.Entry.git
-[submodule "submods/Test-_.Entry"]
-	path = submods/Test-_.Entry
-	url = https://github.com/Synergex-CodeExchange/Test-_.Entry.git
