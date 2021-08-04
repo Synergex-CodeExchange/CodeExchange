@@ -7,3 +7,9 @@
 [submodule "submods/Message_Box"]
 	path = submods/Message_Box
 	url = https://github.com/Synergex-CodeExchange/Message_Box.git
+[submodule "Test-_.Entry"]
+	path = Test-_.Entry
+	url = https://github.com/Synergex-CodeExchange/Test-_.Entry.git
+[submodule "submods/Test-_.Entry"]
+	path = submods/Test-_.Entry
+	url = https://github.com/Synergex-CodeExchange/Test-_.Entry.git
