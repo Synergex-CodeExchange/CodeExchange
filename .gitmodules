@@ -10,3 +10,9 @@
 [submodule "Test-_.Entry"]
 	path = Test-_.Entry
 	url = https://github.com/Synergex-CodeExchange/Test-_.Entry.git
+[submodule "WpfDeviceLicense"]
+	path = WpfDeviceLicense
+	url = https://github.com/Synergex-CodeExchange/WpfDeviceLicense.git
+[submodule "submods/WpfDeviceLicense"]
+	path = submods/WpfDeviceLicense
+	url = https://github.com/Synergex-CodeExchange/WpfDeviceLicense.git
