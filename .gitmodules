@@ -20,3 +20,6 @@
 [submodule "submods/Convert.ToBase64String"]
 	path = submods/Convert.ToBase64String
 	url = https://github.com/Synergex-CodeExchange/Convert.ToBase64String.git
+[submodule "submods/ISAMutils"]
+	path = submods/ISAMutils
+	url = https://github.com/Synergex-CodeExchange/ISAMutils.git
