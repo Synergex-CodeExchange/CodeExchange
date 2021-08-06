@@ -23,3 +23,6 @@
 [submodule "submods/ISAMutils"]
 	path = submods/ISAMutils
 	url = https://github.com/Synergex-CodeExchange/ISAMutils.git
+[submodule "submods/DATE_PICKER"]
+	path = submods/DATE_PICKER
+	url = https://github.com/Synergex-CodeExchange/DATE_PICKER.git
