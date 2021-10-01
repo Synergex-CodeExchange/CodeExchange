@@ -26,6 +26,3 @@
 [submodule "submods/DATE_PICKER"]
 	path = submods/DATE_PICKER
 	url = https://github.com/Synergex-CodeExchange/DATE_PICKER.git
-[submodule "submods/Test_1"]
-	path = submods/Test_1
-	url = https://github.com/Synergex-CodeExchange/Test_1.git
